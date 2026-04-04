@@ -1,7 +1,7 @@
 # Projects & Visualizations
 
 This Repository is dedicated to 
-  * Exploratory Data Analysis with SQL
+  * Exploratory Data Analysis and Online posts with challenges in SQL
   * Dashboarding & Visualizations of Challenges & Projects posted online.
   * Python Projects And/Or Training
   * Reporting Tools Logic & Training
