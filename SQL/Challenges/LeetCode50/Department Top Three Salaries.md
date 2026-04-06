@@ -1,4 +1,4 @@
-This Problem was classified as Hard, but a window function can simply do the trick
+This problem was classified as Hard, but a window function can simply do the trick
 
 Code: 
 
