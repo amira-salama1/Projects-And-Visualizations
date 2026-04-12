@@ -1,5 +1,7 @@
 Find Users With Valid E-Mails
 
+This one is a straight forward solution with REGEX
+
 Code: 
 
     # Write your MySQL query statement below
