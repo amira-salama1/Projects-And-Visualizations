@@ -1,6 +1,8 @@
 
 Friend Requests II: Who Has the Most Friends
 
+So, the idea is simple if you think that you need to get a table/result with the user ID and count of friends
+
 SQL Code:
 
           # Write your MySQL query statement below
