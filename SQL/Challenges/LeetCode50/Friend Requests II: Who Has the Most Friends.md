@@ -1,5 +1,5 @@
 
-Friend Requests II: Who Has the Most Friends
+Friend Requests II: Who Has the Most Friends: 
 
 So, the idea is simple if you think that you need to get a table/result with the user ID (whether from the Requester/Acceptor )and count of friends
 
