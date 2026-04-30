@@ -1,4 +1,4 @@
-Find Users With Valid E-Mails
+**Find Users With Valid E-Mails:**
 
 This one is a straight forward solution with REGEX
 
