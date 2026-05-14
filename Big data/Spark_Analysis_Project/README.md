@@ -1,4 +1,4 @@
-This is a folder for a project the implements comprhensive analytics using SPARK 
+This is a folder for a project the implements comprehensive analytics using SPARK 
 
 Project objectives:
 
