@@ -2,7 +2,7 @@ This is a folder for a project the implements comprehensive analytics using SPAR
 
 **Project objectives:**
 
-1. Ingest with Auto Loader
+1. Ingest Data with Auto Loader
 2. Build the Medallion Architecture (PySpark/SQL)
 3. Govern with Unity Catalog
 4. Build Databricks SQL Dashboards
