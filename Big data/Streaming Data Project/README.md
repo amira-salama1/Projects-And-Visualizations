@@ -9,5 +9,5 @@ Steps to follow:
   *  git clone https://github.com/confluentinc/learn-apache-flink-101-exercises.git
   * cd learn-apache-flink-101-exercises
   * docker compose up --build -d
-3. Start writing Flink Jobs.
+3. Start writing Flink Jobs. 
 4. Post stream as a live feed in a dashboard
