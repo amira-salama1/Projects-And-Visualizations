@@ -1,6 +1,6 @@
 This is a project of streaming data using Kafka & Flink:
 
-Using the TaxiRides table, I'm goining to simulate a streaming job, write some Tumbling Window Functions to analyse the stream.
+Using the "TaxiRides" table, I'm goining to simulate a streaming job, write some Tumbling Window Functions to analyse the stream.
 
 
 Steps to follow: 
